@@ -1,0 +1,19 @@
+{
+  "name": "Tether USD token-list1",
+  "timestamp": "2026-09-15T00:00:00.000+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x68BB0A823Bc49aFEB7C13BFf0888d4Ef752839B4",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+     "logoURI": "https://raw.githubusercontent.com/evanajjo938-afk/token-list1/main/logo.png"
+    }
+  ]
+}
